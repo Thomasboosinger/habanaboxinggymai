@@ -1,0 +1,1001 @@
+,name,age,gender,minutes_from_gym,purchase_frequency_items,average_purchase_amount_of_items,average_visits_per_month,membership_type,number_of_months_with_membership,number_of_months_with_gym,real_segment
+0,Peteri,25,female,42.71,1,2.33,5,monthly,3,2,1
+1,Oliviee,17,female,30.63,1,2.22,4,yearly,2,3,1
+2,Evono,22,male,35.92,0,2.01,1,monthly,0,3,1
+3,Reigene,30,female,41.94,2,2.76,5,monthly,2,1,1
+4,Weynee,16,male,33.31,0,2.57,3,monthly,2,3,1
+5,Aeliyiho,19,female,44.01,1,2.56,4,monthly,3,0,1
+6,Petero,28,female,35.98,2,2.87,5,monthly,1,2,1
+7,Skyloro,22,female,34.49,0,2.75,6,monthly,1,0,1
+8,Josephi,17,male,38.41,2,2.38,6,monthly,1,0,1
+9,Grehime,20,female,33.53,0,2.93,5,monthly,2,1,1
+10,Lunie,19,female,43.29,2,2.4,1,monthly,0,2,1
+11,Alene,30,male,38.25,1,2.66,4,monthly,3,0,1
+12,Jeffo,22,male,30.05,1,2.24,5,monthly,2,0,1
+13,Aironi,21,female,38.76,0,2.9,4,monthly,1,2,1
+14,Netolieo,20,female,35.34,2,2.71,0,monthly,1,2,1
+15,Trevori,16,male,34.62,1,2.65,1,monthly,0,1,1
+16,Ethini,20,male,40.97,1,2.03,3,monthly,3,3,1
+17,Willo,30,male,35.77,1,2.24,4,monthly,1,0,1
+18,Arionoo,17,female,43.67,2,2.21,4,3 month,3,0,1
+19,Victore,30,female,40.87,2,2.22,6,monthly,3,2,1
+20,Aliinee,21,female,42.65,0,2.29,4,3 month,2,3,1
+21,Addisone,30,female,43.22,2,2.07,0,monthly,0,3,1
+22,Vincente,27,female,32.33,0,2.62,5,monthly,3,1,1
+23,Jeremyo,15,male,41.28,2,2.34,1,monthly,2,1,1
+24,Willo,32,male,35.15,0,2.77,2,monthly,3,1,1
+25,Scotte,29,male,33.9,2,2.91,4,monthly,3,2,1
+26,Mikee,28,male,37.62,0,2.73,0,monthly,1,1,1
+27,Leonordi,27,male,43.92,1,2.34,4,monthly,1,2,1
+28,Chirlotteo,19,female,38.42,1,2.06,3,monthly,0,0,1
+29,Frenke,24,female,39.12,0,2.8,2,yearly,2,0,1
+30,Nothone,28,male,44.59,1,2.08,6,monthly,2,3,1
+31,Giryo,24,female,36.79,1,2.66,3,monthly,1,3,1
+32,Kevini,22,male,31.9,2,2.03,6,monthly,3,1,1
+33,Isobellee,25,female,33.16,0,2.03,1,yearly,0,3,1
+34,Henrye,18,female,38.49,1,2.16,2,monthly,2,3,1
+35,Joshe,23,male,42.3,1,2.22,4,monthly,1,2,1
+36,Rendello,22,male,30.8,1,2.78,0,monthly,1,2,1
+37,Johno,26,male,43.84,1,2.21,1,monthly,3,2,1
+38,Tome,24,male,44.44,2,2.18,0,monthly,0,3,1
+39,Motto,15,male,42.03,0,2.13,5,monthly,0,1,1
+40,Piule,24,male,35.96,0,2.04,3,3 month,3,0,1
+41,Seeni,27,male,44.35,1,2.91,5,monthly,3,3,1
+42,Aloni,21,male,43.22,2,2.13,3,monthly,0,0,1
+43,Mikeo,25,male,34.33,2,2.76,5,monthly,0,1,1
+44,Victorieo,17,female,35.41,0,2.33,6,monthly,0,3,1
+45,Brondone,24,female,44.89,2,2.23,5,monthly,2,0,1
+46,Motthewi,23,male,41.98,1,2.92,6,monthly,2,0,1
+47,Somi,23,female,38.44,2,2.29,2,monthly,0,1,1
+48,Alberto,19,male,43.25,1,2.07,2,monthly,0,3,1
+49,Drewi,19,male,44.69,0,2.11,3,monthly,2,0,1
+50,Jeremyo,27,male,32.3,0,2.07,2,yearly,2,1,1
+51,Elliee,25,female,44.85,0,2.83,6,monthly,2,1,1
+52,Richo,28,male,35.11,0,2.12,5,monthly,1,1,1
+53,Mollyi,26,female,30.73,1,2.18,6,monthly,3,2,1
+54,Ainsleye,21,female,36.48,1,2.4,5,monthly,2,0,1
+55,Georgeo,17,male,31.14,2,2.81,3,monthly,3,0,1
+56,Luceso,18,female,40.36,0,2.56,2,monthly,1,1,1
+57,Sofiei,18,female,39.31,2,2.37,5,monthly,1,3,1
+58,Mirko,21,male,33.32,2,2.22,5,3 month,2,1,1
+59,Trevore,23,male,39.27,1,2.4,5,monthly,0,0,1
+60,Norie,19,female,30.77,2,2.13,0,monthly,3,1,1
+61,Divido,29,male,39.65,0,2.94,3,monthly,3,1,1
+62,Soroho,24,female,31.73,0,2.08,1,monthly,0,0,1
+63,Philo,21,male,42.6,0,2.76,2,monthly,1,0,1
+64,Notheno,16,female,34.25,2,2.51,3,monthly,2,0,1
+65,Cirolinei,29,female,30.36,0,2.82,4,monthly,2,3,1
+66,Ainsleyi,23,female,31.89,1,2.19,4,monthly,1,3,1
+67,Erici,22,male,40.56,1,2.23,6,monthly,0,0,1
+68,Ulyssese,19,female,42.0,2,2.66,1,monthly,1,3,1
+69,Henryo,19,female,44.36,2,2.77,2,monthly,0,2,1
+70,Henryi,18,female,35.42,0,2.05,1,monthly,3,3,1
+71,Stelloo,13,female,30.63,0,2.34,4,monthly,2,0,1
+72,Peule,29,male,35.98,0,2.8,6,monthly,3,2,1
+73,Olivero,23,female,38.42,2,2.18,5,monthly,0,1,1
+74,Ariei,27,female,32.69,1,2.91,4,monthly,2,0,1
+75,Thomiso,18,female,38.37,1,2.27,3,monthly,1,2,1
+76,Jordini,31,female,36.54,1,2.95,1,3 month,2,1,1
+77,Rendillo,26,male,31.04,2,2.64,5,monthly,3,2,1
+78,Aerone,29,male,44.17,2,2.95,2,monthly,3,3,1
+79,Misono,29,male,31.03,2,2.15,0,monthly,2,2,1
+80,Micheelo,18,male,32.72,2,2.07,1,monthly,1,0,1
+81,Seono,17,male,39.58,2,2.28,1,monthly,2,1,1
+82,Drewe,27,male,31.51,1,2.39,1,monthly,1,1,1
+83,Somo,26,female,41.22,1,2.4,4,monthly,2,1,1
+84,Sethi,16,male,40.38,2,2.65,1,monthly,0,1,1
+85,Giennoi,31,female,36.5,2,2.7,2,monthly,0,3,1
+86,Chodo,17,male,43.36,1,2.72,4,monthly,0,2,1
+87,Airone,25,female,40.07,1,2.75,3,monthly,3,3,1
+88,Kevino,26,female,39.29,0,2.16,1,monthly,0,3,1
+89,Lirrye,17,male,33.87,2,2.97,4,yearly,3,2,1
+90,Brieno,14,male,35.11,2,2.86,1,monthly,1,0,1
+91,Riyi,21,male,41.5,2,2.67,6,monthly,2,2,1
+92,Nethino,19,female,42.02,1,2.37,3,monthly,1,1,1
+93,Liemi,22,female,40.39,2,2.13,5,monthly,1,2,1
+94,Giryi,18,male,41.64,0,2.19,0,monthly,2,0,1
+95,Wedee,24,male,38.27,1,2.62,4,monthly,3,3,1
+96,Corle,24,male,39.63,0,2.77,5,yearly,1,3,1
+97,Jocki,27,male,31.23,0,2.16,1,monthly,2,0,1
+98,Johne,28,male,42.63,0,2.58,0,monthly,3,3,1
+99,Joei,22,male,40.43,0,2.2,1,monthly,1,1,1
+100,Olivere,18,female,35.35,2,2.61,5,monthly,2,2,1
+101,Julioi,18,female,30.58,0,2.78,1,monthly,2,2,1
+102,Averye,24,female,40.65,0,2.42,2,monthly,1,1,1
+103,Zicho,28,female,41.88,2,2.61,1,monthly,1,3,1
+104,Joei,19,male,36.7,0,2.35,2,monthly,0,3,1
+105,Henryi,28,female,34.89,2,2.73,2,monthly,2,0,1
+106,Scotti,21,male,40.62,2,2.16,6,monthly,0,2,1
+107,Tonyo,23,male,37.89,1,2.56,3,3 month,1,3,1
+108,Grento,24,male,32.64,2,2.04,3,monthly,1,2,1
+109,Mikee,25,male,35.7,2,2.89,0,yearly,3,0,1
+110,Averyi,24,female,43.84,1,2.68,5,monthly,2,2,1
+111,Mikeo,28,male,36.59,2,2.89,3,monthly,3,1,1
+112,Gerolde,23,male,37.18,2,2.16,2,monthly,1,0,1
+113,Jocke,19,male,35.09,2,2.07,5,monthly,3,2,1
+114,Jeffi,24,male,40.52,1,2.25,3,monthly,3,2,1
+115,Brodo,15,male,32.08,1,2.28,5,monthly,3,1,1
+116,Dennise,23,male,35.44,1,2.94,4,monthly,2,1,1
+117,Billo,13,male,31.59,0,2.9,5,monthly,0,0,1
+118,Aorone,15,male,34.09,1,2.39,2,monthly,3,1,1
+119,Curtisi,19,male,38.36,0,2.32,6,monthly,0,1,1
+120,Zoei,15,female,38.27,1,2.51,2,monthly,2,1,1
+121,Brooklynno,25,female,36.61,1,2.54,0,monthly,0,2,1
+122,Aloni,27,male,34.52,1,2.24,2,monthly,3,3,1
+123,Quinno,21,female,44.03,0,2.66,3,monthly,0,1,1
+124,Showni,19,male,36.99,1,2.15,6,monthly,2,0,1
+125,Keyleeo,22,female,32.8,1,2.63,6,monthly,1,0,1
+126,Joseo,18,male,34.31,1,2.06,2,yearly,0,0,1
+127,Somo,25,female,41.7,2,2.56,3,monthly,3,0,1
+128,Ariinnoo,18,female,41.17,2,2.15,0,monthly,0,0,1
+129,Arionii,23,female,37.75,2,2.42,1,monthly,0,2,1
+130,Linceo,18,male,38.13,2,2.32,3,monthly,0,0,1
+131,Briellei,29,female,37.06,0,2.21,0,monthly,2,2,1
+132,Hozele,19,female,30.85,0,2.29,6,monthly,1,1,1
+133,Kyleo,26,female,30.02,1,2.32,3,yearly,0,1,1
+134,Roberte,17,female,38.69,0,2.95,2,monthly,0,3,1
+135,Piperi,24,female,39.73,0,2.04,6,monthly,3,1,1
+136,Tylero,24,male,43.71,0,2.91,6,monthly,2,1,1
+137,Josone,22,male,34.58,1,2.18,5,3 month,0,3,1
+138,Henryo,19,male,31.45,1,2.53,1,monthly,0,0,1
+139,Alexo,15,male,32.78,0,2.04,6,monthly,2,3,1
+140,Johne,19,male,43.08,2,2.48,4,monthly,3,0,1
+141,Briellee,26,female,36.05,0,2.48,6,monthly,3,1,1
+142,Vincento,24,female,31.22,0,2.62,3,monthly,2,0,1
+143,Zocheryo,23,female,40.75,0,2.88,2,monthly,0,2,1
+144,Poulo,18,male,40.41,1,2.65,4,monthly,2,1,1
+145,Willo,21,male,33.04,0,2.91,1,monthly,1,1,1
+146,Ethone,31,male,31.06,1,2.69,5,monthly,0,2,1
+147,Juliei,20,female,44.42,1,2.79,3,monthly,0,1,1
+148,Peuli,26,male,30.24,2,2.41,6,monthly,1,1,1
+149,Wideo,18,male,38.93,0,2.75,3,3 month,0,1,1
+150,Xovieri,18,female,35.85,1,2.52,2,monthly,0,2,1
+151,Mitto,22,female,44.63,2,2.14,0,monthly,0,1,1
+152,Hoileee,16,female,34.79,0,2.91,1,monthly,3,3,1
+153,Zoeyi,15,female,33.34,2,2.37,4,monthly,2,1,1
+154,Brooklynne,23,female,41.04,1,2.46,6,monthly,1,2,1
+155,Mirki,15,male,41.99,0,2.07,0,monthly,0,3,1
+156,Josee,21,male,43.41,2,2.68,3,monthly,2,3,1
+157,Oweni,26,female,36.69,1,2.84,4,monthly,3,2,1
+158,Zochoryi,22,female,43.85,0,2.18,6,monthly,2,1,1
+159,Zichirye,24,female,34.72,1,2.68,2,monthly,1,0,1
+160,Leiho,21,female,43.02,1,2.97,6,monthly,3,3,1
+161,Robo,18,male,39.57,0,2.26,5,monthly,1,2,1
+162,Stevee,29,male,40.5,2,2.35,1,monthly,1,2,1
+163,Chorlotteo,19,female,35.27,2,2.74,6,monthly,3,2,1
+164,Goryi,21,male,33.35,0,2.87,3,monthly,1,1,1
+165,Isebelloo,16,female,36.09,1,2.09,4,monthly,3,0,1
+166,Linceo,23,male,43.09,0,2.19,5,monthly,3,2,1
+167,Simo,16,female,31.83,1,2.65,4,monthly,0,2,1
+168,Addisoni,17,female,40.99,2,2.58,3,monthly,2,0,1
+169,Phile,16,male,35.85,1,2.81,4,monthly,2,3,1
+170,Dylini,21,female,31.56,1,2.2,0,monthly,1,2,1
+171,Tylere,23,female,37.36,0,2.05,1,monthly,3,1,1
+172,Aleno,24,male,32.48,2,2.96,1,monthly,2,2,1
+173,Mikei,21,male,37.97,2,2.01,5,monthly,3,3,1
+174,Chode,22,male,33.12,1,2.07,6,monthly,1,1,1
+175,Drewe,22,male,34.45,0,2.36,1,monthly,1,1,1
+176,Brenti,31,male,31.06,2,2.91,0,monthly,3,3,1
+177,Lilliene,33,female,38.55,1,2.18,2,monthly,3,1,1
+178,Skylere,32,female,38.34,2,2.63,0,monthly,1,3,1
+179,Seino,25,male,36.08,0,2.51,1,monthly,2,3,1
+180,Erice,21,male,44.54,1,2.8,0,monthly,2,1,1
+181,Peule,15,male,34.06,2,2.99,5,monthly,3,0,1
+182,Ashlyni,21,female,36.43,1,2.79,0,monthly,2,0,1
+183,Tonye,20,male,44.11,2,2.15,2,monthly,3,2,1
+184,Mockenzieo,27,female,40.43,2,2.13,4,monthly,0,0,1
+185,Leee,23,male,30.73,2,2.42,2,3 month,2,3,1
+186,Chorlesi,17,male,41.59,2,2.5,2,monthly,1,2,1
+187,Seoni,29,male,31.11,1,2.01,0,monthly,3,2,1
+188,Seene,20,male,34.02,2,2.41,4,monthly,3,0,1
+189,Alexe,32,male,42.48,0,2.91,3,monthly,2,2,1
+190,Chrise,25,male,39.25,2,2.67,2,monthly,3,0,1
+191,Kevini,23,female,31.79,1,2.05,3,monthly,0,3,1
+192,Evoni,21,male,36.54,2,2.88,1,monthly,1,2,1
+193,Lucyi,21,female,36.86,2,2.7,1,monthly,0,1,1
+194,Xovieri,18,female,37.01,2,2.41,3,yearly,1,2,1
+195,Victoriie,26,female,41.6,2,2.92,2,monthly,0,1,1
+196,Zoei,32,female,33.12,2,2.86,6,monthly,3,0,1
+197,Tomo,22,female,36.75,0,2.91,5,monthly,3,0,1
+198,Chorleso,29,male,40.47,1,2.41,0,monthly,0,1,1
+199,Tylero,28,male,42.02,1,2.12,5,monthly,0,1,1
+200,Lucye,22,female,37.14,0,2.41,5,3 month,2,0,1
+201,Kevini,28,male,42.58,1,2.5,4,monthly,0,0,1
+202,Jordyni,21,female,32.12,1,2.76,4,monthly,2,1,1
+203,Keyleei,29,female,40.47,1,2.03,5,monthly,3,3,1
+204,Pirkeri,26,female,42.39,0,2.9,1,monthly,3,2,1
+205,Ethono,28,male,42.65,0,2.92,1,monthly,3,2,1
+206,Edwirde,20,male,36.6,0,2.93,6,monthly,1,3,1
+207,Allisono,17,female,39.89,0,2.15,5,monthly,0,0,1
+208,Jimese,27,male,41.96,2,2.72,3,monthly,3,1,1
+209,Lydiei,16,female,42.65,1,2.71,3,monthly,2,0,1
+210,Zoche,15,female,40.95,0,2.37,1,monthly,2,1,1
+211,Perkero,20,female,36.91,2,2.12,5,monthly,0,3,1
+212,Porkero,22,female,34.57,1,2.98,2,monthly,2,1,1
+213,Kene,18,male,33.93,1,2.89,0,monthly,2,0,1
+214,Lilei,25,female,43.09,2,2.7,3,monthly,3,1,1
+215,Birryo,31,male,35.32,2,2.72,2,monthly,1,3,1
+216,Aeroni,24,male,42.36,0,2.64,6,monthly,1,3,1
+217,Grinti,16,male,30.07,2,2.14,3,monthly,0,1,1
+218,Rone,21,male,41.53,1,2.55,4,monthly,1,0,1
+219,Williome,24,female,41.18,1,2.98,0,monthly,0,3,1
+220,Curtiso,32,male,44.35,0,2.16,6,monthly,0,2,1
+221,Kevine,18,female,40.63,1,2.52,0,monthly,2,3,1
+222,Alino,25,male,43.99,0,2.96,1,monthly,0,1,1
+223,Brooklynni,28,female,31.46,0,2.85,2,monthly,3,2,1
+224,Williomi,21,female,32.02,2,2.32,5,3 month,0,3,1
+225,Nigelo,28,male,40.06,2,2.63,1,monthly,2,2,1
+226,Jocelyne,18,female,42.1,1,2.62,6,3 month,3,3,1
+227,Miuricei,18,male,39.01,0,2.93,4,yearly,1,3,1
+228,Isoico,30,female,40.53,1,2.88,5,yearly,1,3,1
+229,Tonyi,20,male,40.78,2,2.51,4,monthly,0,3,1
+230,Pitricke,16,female,40.5,0,2.17,6,monthly,3,2,1
+231,Shewne,28,male,31.51,2,2.33,0,monthly,2,3,1
+232,Jeremyi,21,male,35.86,0,2.38,6,yearly,1,1,1
+233,Robe,26,male,39.83,1,2.71,4,monthly,2,3,1
+234,Victoro,26,female,31.89,2,2.9,4,monthly,2,3,1
+235,Averyo,21,female,34.64,1,2.27,6,monthly,3,1,1
+236,Ulyssese,16,female,44.31,2,2.78,1,monthly,2,2,1
+237,Peytono,26,female,41.42,0,2.98,1,monthly,3,0,1
+238,Jimesi,29,male,41.44,2,2.9,5,monthly,2,0,1
+239,Notei,28,male,38.48,2,2.96,5,monthly,1,2,1
+240,Quinne,22,female,40.21,2,2.61,0,monthly,0,0,1
+241,Seino,26,male,39.73,1,2.84,2,monthly,3,1,1
+242,Erice,15,male,36.23,1,2.79,4,monthly,2,1,1
+243,Jonothino,31,male,39.9,1,2.31,3,monthly,1,0,1
+244,Avio,19,female,40.87,2,2.58,0,monthly,3,1,1
+245,Milie,26,female,30.35,2,2.08,3,monthly,2,2,1
+246,Peytono,16,female,30.09,1,2.23,1,3 month,0,1,1
+247,Josei,29,male,39.08,2,2.64,2,monthly,1,3,1
+248,Jonethene,31,male,30.85,2,2.86,3,monthly,3,1,1
+249,Jeffi,23,male,39.27,2,2.04,6,monthly,3,0,1
+250,Keitho,19,male,42.93,0,2.26,6,monthly,3,0,1
+251,Briine,23,male,37.52,1,2.7,4,3 month,2,3,1
+252,Ryini,27,female,33.47,2,2.11,6,monthly,3,0,1
+253,Wideo,22,male,39.75,0,2.61,2,monthly,2,1,1
+254,Meuricee,17,male,35.61,1,2.26,5,yearly,1,2,1
+255,Georgee,28,female,33.46,0,2.13,0,monthly,2,0,1
+256,Dovidi,30,male,37.54,2,2.06,5,monthly,2,0,1
+257,Leonirdi,15,male,39.98,2,2.3,5,monthly,0,3,1
+258,Lirryo,29,male,44.83,2,2.02,4,monthly,0,0,1
+259,Gevini,17,male,32.25,2,2.73,2,monthly,0,3,1
+260,Grihemi,21,female,34.07,2,2.47,5,3 month,1,0,1
+261,Norii,24,female,33.26,2,2.43,3,monthly,3,0,1
+262,Philo,23,male,42.71,1,2.56,2,monthly,3,0,1
+263,Seono,18,male,39.02,0,2.99,6,monthly,2,1,1
+264,Addisoni,16,female,31.72,2,2.2,2,monthly,0,0,1
+265,Jordene,25,female,41.07,1,2.25,3,yearly,0,1,1
+266,Horrisone,26,female,33.6,0,2.23,3,monthly,0,0,1
+267,Aubreye,26,female,31.45,1,2.6,1,monthly,0,3,1
+268,Jordyno,24,female,31.2,0,2.13,5,monthly,1,3,1
+269,Willo,18,male,31.67,0,2.87,2,monthly,2,1,1
+270,Kevine,17,male,39.78,0,2.89,2,monthly,2,0,1
+271,Joshi,21,male,44.26,0,2.72,0,monthly,3,3,1
+272,Evelyni,21,female,40.66,0,2.83,3,monthly,1,2,1
+273,Henryo,24,female,40.32,1,2.88,3,monthly,2,3,1
+274,Jicki,15,male,40.13,1,2.9,6,monthly,2,2,1
+275,Stellee,22,female,33.42,0,2.95,5,monthly,3,3,1
+276,Joseo,24,male,38.37,0,2.99,5,yearly,3,0,1
+277,Riyo,29,male,44.14,0,2.35,1,monthly,3,0,1
+278,Aubreye,20,female,43.63,1,2.91,4,monthly,3,3,1
+279,Dividi,25,male,44.4,2,2.47,4,monthly,3,3,1
+280,Aeliyehi,21,female,44.1,2,2.67,3,monthly,2,2,1
+281,Nothene,28,female,42.96,0,2.02,1,monthly,2,3,1
+282,Josminei,32,female,38.86,2,2.33,6,monthly,1,1,1
+283,Kyleo,18,male,30.5,1,2.02,1,monthly,2,2,1
+284,Kylee,28,male,30.15,2,2.33,1,monthly,3,1,1
+285,Aoroni,28,male,42.32,1,2.81,2,monthly,1,2,1
+286,Toylore,20,female,33.04,1,2.27,3,monthly,0,2,1
+287,Justino,22,male,37.21,2,2.66,3,monthly,0,1,1
+288,Roni,29,male,31.4,1,2.78,5,yearly,3,2,1
+289,Jocko,19,male,39.57,0,2.51,5,monthly,2,0,1
+290,Mikei,17,male,42.39,1,2.7,2,monthly,1,2,1
+291,Aurorio,28,female,36.78,2,2.57,5,monthly,2,1,1
+292,Nethini,21,female,33.14,2,2.09,6,monthly,2,2,1
+293,Adimo,22,male,39.77,0,2.8,3,monthly,0,2,1
+294,Doni,22,male,43.04,2,2.4,1,monthly,3,3,1
+295,Averyi,27,female,40.01,1,2.97,3,monthly,1,1,1
+296,Zocheryo,28,female,37.66,2,2.76,0,monthly,1,1,1
+297,Victoro,24,female,35.19,2,2.25,6,monthly,0,0,1
+298,Lunoo,24,female,44.25,0,2.5,1,monthly,3,1,1
+299,Notheno,13,male,36.88,0,2.07,4,monthly,0,2,1
+300,Linceo,19,male,36.73,0,2.73,2,monthly,3,0,1
+301,Tonye,25,male,31.14,0,2.81,5,monthly,1,2,1
+302,Roberte,24,male,35.21,0,2.59,3,monthly,2,2,1
+303,Quinno,19,female,42.45,0,2.39,4,monthly,1,2,1
+304,Nitheni,26,male,44.84,0,2.08,2,monthly,3,0,1
+305,Brooklynno,21,female,33.74,0,2.79,6,monthly,3,0,1
+306,Chirlesi,30,male,30.96,1,2.65,3,monthly,3,1,1
+307,Dustine,18,male,30.38,0,2.32,0,monthly,3,3,1
+308,Georgee,15,female,37.55,1,2.34,3,monthly,3,2,1
+309,Edwerde,25,male,39.71,2,2.71,1,monthly,2,2,1
+310,Nethini,16,male,43.51,0,2.5,2,3 month,0,0,1
+311,Drewe,17,male,30.77,0,2.67,2,monthly,2,3,1
+312,Elliee,23,female,30.73,0,2.87,0,monthly,2,0,1
+313,Avii,27,female,36.81,1,2.35,4,monthly,1,3,1
+314,Simenthii,28,female,35.69,0,2.84,3,3 month,1,3,1
+315,Zicho,16,male,32.06,1,2.56,2,monthly,3,2,1
+316,Jordeni,27,female,37.66,0,2.45,5,monthly,1,1,1
+317,Zoeo,20,female,40.09,2,2.82,0,monthly,1,0,1
+318,Dolee,26,male,33.33,2,2.32,0,monthly,2,2,1
+319,Herpere,26,female,32.24,1,2.73,2,monthly,3,3,1
+320,Dorrelli,23,male,30.82,2,2.01,2,yearly,2,3,1
+321,Sethi,18,male,38.17,2,2.54,6,monthly,1,2,1
+322,Rendelli,24,male,37.65,0,2.93,4,monthly,0,3,1
+323,Bene,24,male,38.54,2,2.38,4,monthly,1,2,1
+324,Seone,20,male,33.79,2,2.89,1,monthly,3,0,1
+325,Audreyi,26,female,41.83,0,2.5,0,monthly,2,2,1
+326,Zoeyo,25,female,33.54,2,2.24,5,3 month,2,1,1
+327,Metto,26,male,34.74,0,2.16,5,monthly,1,0,1
+328,Rondyi,24,male,30.83,0,2.07,0,monthly,0,1,1
+329,Josee,25,male,38.12,0,2.06,5,monthly,2,0,1
+330,Nicke,17,female,39.86,1,2.73,4,monthly,1,3,1
+331,Averye,25,female,42.28,0,2.36,2,monthly,1,1,1
+332,Annebellee,32,female,33.12,0,2.88,2,monthly,0,0,1
+333,Rileye,22,female,41.08,2,2.18,0,3 month,3,1,1
+334,Rileye,27,female,24.59,3,17.73,8,yearly,4,4,2
+335,Jeremyi,21,male,29.35,3,7.39,8,3 month,2,5,2
+336,Nethino,33,male,23.26,4,19.87,7,monthly,5,5,2
+337,Chrise,31,male,24.83,2,11.23,6,monthly,5,4,2
+338,Joeo,31,male,23.72,2,18.73,6,3 month,4,4,2
+339,Zoeyo,34,female,28.63,4,19.7,7,3 month,5,3,2
+340,Dustini,29,male,25.92,3,18.6,7,monthly,4,2,2
+341,Roberte,36,male,21.72,4,10.93,7,3 month,2,2,2
+342,Jimo,37,male,25.7,3,15.37,7,3 month,2,2,2
+343,Beni,28,male,22.37,3,9.5,7,monthly,3,4,2
+344,Leehi,27,female,24.15,3,15.79,8,3 month,2,4,2
+345,Rondille,36,male,20.41,4,11.04,8,3 month,4,2,2
+346,Addisone,34,female,29.06,3,7.01,8,3 month,2,3,2
+347,Wille,30,male,24.11,2,16.22,8,3 month,3,2,2
+348,Heileeo,26,female,22.06,2,17.26,8,monthly,2,2,2
+349,Isiici,29,female,25.1,2,6.31,7,monthly,2,4,2
+350,Sediei,29,female,20.25,2,18.27,8,yearly,4,2,2
+351,Kevine,25,male,29.75,3,17.47,7,monthly,2,5,2
+352,Abigeili,26,female,29.33,4,13.88,7,3 month,5,4,2
+353,Addisoni,25,female,28.86,4,7.83,6,monthly,5,2,2
+354,Denniso,27,male,24.59,3,12.4,7,monthly,2,4,2
+355,Philipi,35,male,28.12,3,17.69,6,monthly,3,5,2
+356,Seono,21,male,27.97,4,10.86,7,monthly,3,5,2
+357,Soreho,30,female,27.09,4,19.9,7,yearly,2,2,2
+358,Lilye,17,female,27.59,3,10.57,8,monthly,5,5,2
+359,Cleytoni,25,male,23.17,4,17.51,8,monthly,3,4,2
+360,Bredo,30,male,29.92,2,16.83,7,monthly,5,5,2
+361,Mikee,27,male,26.46,2,15.53,8,monthly,3,3,2
+362,Henryo,25,male,24.66,2,15.97,8,3 month,3,5,2
+363,Shewne,30,male,29.31,2,11.59,7,3 month,4,3,2
+364,Iseoco,26,female,22.68,3,14.36,8,3 month,3,2,2
+365,Aloni,32,male,22.28,2,10.86,6,3 month,3,3,2
+366,Olivere,25,female,29.91,3,12.59,6,3 month,5,4,2
+367,Keno,29,male,27.75,2,13.69,6,monthly,2,2,2
+368,Audreyi,19,female,27.42,4,10.32,6,monthly,3,4,2
+369,Morki,26,male,22.2,2,15.68,6,monthly,4,5,2
+370,Ethoni,33,female,23.26,3,13.48,6,monthly,3,4,2
+371,Eveni,21,male,29.34,4,13.15,6,3 month,4,5,2
+372,Wodeo,26,male,21.41,2,6.72,7,monthly,2,3,2
+373,Nitolieo,29,female,24.62,2,14.87,7,monthly,5,4,2
+374,Oweno,22,female,20.77,3,6.46,8,monthly,3,5,2
+375,Berryo,26,male,20.45,4,19.65,8,monthly,5,3,2
+376,Potricki,29,male,29.7,4,11.34,7,3 month,3,3,2
+377,Aliinie,25,female,24.37,3,11.37,7,3 month,4,5,2
+378,Leonirdi,19,male,29.43,4,12.29,8,monthly,5,2,2
+379,Bretto,32,male,20.84,4,13.52,8,3 month,2,3,2
+380,Notelieo,25,female,26.49,4,19.71,6,3 month,4,2,2
+381,Dennisi,37,male,23.6,2,11.41,6,3 month,3,4,2
+382,Petero,23,female,20.13,3,11.43,6,3 month,2,2,2
+383,Devido,22,male,28.13,4,7.57,6,monthly,4,3,2
+384,Josei,30,male,21.11,2,8.92,6,monthly,2,3,2
+385,Honke,27,male,21.95,4,7.59,8,monthly,3,4,2
+386,Dyleni,35,female,29.0,3,15.3,8,monthly,2,4,2
+387,Midisono,23,female,20.68,3,9.83,6,monthly,3,2,2
+388,Jonethene,37,male,28.6,3,8.85,8,3 month,5,3,2
+389,Adimi,30,male,27.15,2,17.37,6,3 month,3,4,2
+390,Cerle,34,male,22.31,2,9.36,6,3 month,5,2,2
+391,Cherlese,34,male,21.64,4,11.33,8,3 month,2,4,2
+392,Wyitte,32,female,26.83,2,9.96,7,3 month,3,4,2
+393,Nicko,20,male,23.01,4,18.73,8,monthly,2,3,2
+394,Nitelieo,34,female,24.71,3,17.46,8,3 month,3,2,2
+395,Jecobe,30,male,29.23,2,17.48,6,monthly,2,3,2
+396,Jecko,26,male,27.17,4,19.65,7,3 month,2,3,2
+397,Lucisi,34,female,29.98,2,9.8,7,3 month,3,5,2
+398,Honneho,33,female,24.09,3,18.84,8,monthly,2,2,2
+399,Aeroni,21,female,23.55,2,11.54,6,3 month,4,3,2
+400,Ademi,33,male,26.76,2,19.26,7,3 month,5,2,2
+401,Zochi,33,female,24.89,4,18.7,8,3 month,4,4,2
+402,Keithi,33,male,21.31,3,17.86,7,3 month,5,3,2
+403,Corsono,26,female,23.29,4,19.1,7,monthly,2,4,2
+404,Skylere,32,female,24.06,4,17.82,7,3 month,2,3,2
+405,Grege,25,male,23.07,4,13.0,8,monthly,4,2,2
+406,Denniso,27,male,25.54,2,6.97,7,monthly,2,3,2
+407,Liemi,25,female,22.82,4,7.24,8,3 month,4,5,2
+408,Joeo,26,male,24.75,2,12.18,7,monthly,5,4,2
+409,Alexo,26,male,24.86,4,9.1,8,3 month,3,5,2
+410,Chloee,28,female,21.74,3,6.74,8,monthly,5,3,2
+411,Notheni,35,female,29.99,2,7.86,8,monthly,4,4,2
+412,Addisono,28,female,28.17,2,13.0,8,monthly,5,4,2
+413,Lieme,33,female,25.41,4,17.73,8,monthly,2,2,2
+414,Lencei,29,male,23.34,2,10.18,8,3 month,4,2,2
+415,Lorenzoo,31,male,23.22,4,14.5,7,3 month,2,5,2
+416,Meuricei,21,male,29.01,3,19.73,8,monthly,4,3,2
+417,Zecho,33,male,27.79,2,18.94,8,3 month,3,3,2
+418,Wodeo,28,male,21.9,3,13.9,6,3 month,3,3,2
+419,Hirpero,20,female,23.08,4,8.48,8,monthly,3,2,2
+420,Hinko,35,male,29.85,3,14.65,7,monthly,4,3,2
+421,Peteo,21,male,21.37,2,15.0,6,monthly,5,2,2
+422,Steveo,34,male,20.89,2,18.83,8,yearly,4,3,2
+423,Mesone,18,male,25.08,3,14.36,8,3 month,4,5,2
+424,Leoho,22,female,21.13,4,6.21,6,monthly,5,4,2
+425,Mockenzieo,35,female,22.06,4,16.32,8,3 month,5,2,2
+426,Kevini,26,male,25.41,3,17.96,8,monthly,4,4,2
+427,Koyleei,25,female,24.53,4,7.09,6,monthly,2,3,2
+428,Josephi,24,male,25.64,2,7.97,7,3 month,5,3,2
+429,Henryi,36,male,22.41,4,6.29,6,3 month,5,4,2
+430,Jeremye,32,male,24.34,4,18.05,7,3 month,4,5,2
+431,Chriso,26,male,25.51,4,7.3,8,monthly,2,4,2
+432,Philo,19,male,20.83,3,6.62,7,yearly,5,3,2
+433,Mixo,39,female,20.06,4,19.72,8,monthly,4,4,2
+434,Joei,35,male,26.74,3,19.41,6,monthly,4,2,2
+435,Drewo,19,male,20.57,2,19.33,6,3 month,5,2,2
+436,Steveni,36,male,23.26,2,17.91,6,monthly,2,3,2
+437,Mitto,33,male,25.15,3,15.17,7,monthly,3,5,2
+438,Frinko,27,male,27.84,4,16.83,6,3 month,5,5,2
+439,Victori,26,male,21.24,4,15.87,8,3 month,5,2,2
+440,Widee,21,male,25.6,4,12.06,8,monthly,2,3,2
+441,Tomi,22,female,25.2,4,8.42,6,yearly,5,4,2
+442,Tylero,20,male,21.41,3,19.19,6,3 month,2,5,2
+443,Metti,33,male,20.46,2,11.6,7,monthly,4,2,2
+444,Peteri,25,male,27.64,2,16.48,6,3 month,4,5,2
+445,Miloi,26,female,26.22,3,9.97,7,monthly,4,4,2
+446,Skyleri,26,female,24.42,3,15.75,8,3 month,2,5,2
+447,Evelyni,30,female,21.5,3,9.53,7,3 month,3,5,2
+448,Hoileei,35,female,25.45,3,12.94,6,monthly,5,4,2
+449,Fronke,26,male,20.81,2,9.12,7,3 month,3,4,2
+450,Kiyleeo,35,female,20.83,2,8.86,7,monthly,2,3,2
+451,Roberto,29,male,21.6,4,9.24,6,monthly,4,4,2
+452,Briellee,27,female,29.33,4,17.1,8,monthly,2,5,2
+453,Liloo,29,female,22.24,4,16.99,8,monthly,2,5,2
+454,Juliii,21,female,23.36,3,17.69,8,monthly,2,2,2
+455,Briino,28,male,23.73,2,12.15,6,monthly,2,3,2
+456,Kyleo,33,male,28.36,3,11.48,6,3 month,5,2,2
+457,Gronte,21,male,26.75,2,8.43,7,monthly,4,3,2
+458,Jonithino,22,male,24.59,4,6.29,7,monthly,5,5,2
+459,Cliytono,31,male,29.68,3,10.62,6,3 month,4,4,2
+460,Moxo,26,female,21.03,3,17.09,8,monthly,4,3,2
+461,Gereldi,26,male,25.03,4,8.25,7,3 month,2,4,2
+462,Tylere,26,female,28.16,4,10.99,7,monthly,3,2,2
+463,Beno,32,female,28.25,3,6.86,6,monthly,4,5,2
+464,Lorenzoi,18,male,28.14,4,10.18,7,monthly,5,5,2
+465,Nethene,29,male,20.37,4,18.62,8,monthly,5,5,2
+466,Soylori,29,female,24.63,4,7.07,7,monthly,2,2,2
+467,Lucyi,28,female,21.92,3,7.65,7,3 month,5,4,2
+468,Chrisi,33,male,28.71,2,12.09,7,monthly,2,2,2
+469,Chrise,27,male,25.47,2,10.63,6,monthly,5,3,2
+470,Williemi,23,male,21.78,2,7.84,7,monthly,5,5,2
+471,Drewi,23,male,28.87,3,7.32,8,monthly,5,2,2
+472,Peytone,34,female,21.39,4,19.49,7,yearly,5,2,2
+473,Sofiii,25,female,23.83,4,7.97,8,yearly,5,2,2
+474,Gionnie,29,female,27.04,2,14.94,7,3 month,5,4,2
+475,Giryi,24,male,24.78,3,17.59,6,3 month,5,4,2
+476,Petero,22,male,29.86,4,9.01,8,monthly,2,5,2
+477,Lucyo,19,female,20.9,4,7.77,7,3 month,2,3,2
+478,Mikee,31,male,26.25,3,10.65,7,monthly,2,4,2
+479,Scotte,34,male,29.81,2,13.76,7,3 month,4,3,2
+480,Joshi,26,male,25.0,4,16.26,8,yearly,4,3,2
+481,Reyo,31,male,28.92,4,7.53,6,3 month,5,3,2
+482,Lucisi,23,female,22.0,3,18.42,7,monthly,5,2,2
+483,Chedo,26,male,27.27,3,11.05,7,monthly,2,5,2
+484,Stevene,25,male,29.23,4,11.1,8,monthly,2,2,2
+485,Leehi,22,female,28.12,4,9.34,6,monthly,3,3,2
+486,Gricei,26,female,29.61,2,17.67,6,monthly,3,5,2
+487,Frenke,26,male,29.42,4,7.0,8,3 month,2,2,2
+488,Josephi,25,male,25.26,4,6.22,6,3 month,3,3,2
+489,Trevoro,30,male,26.44,3,10.4,8,yearly,3,2,2
+490,Derreni,25,male,23.94,2,18.16,8,yearly,5,5,2
+491,Quinno,35,female,22.87,2,18.0,7,monthly,4,5,2
+492,Comilie,24,female,26.16,4,12.12,8,monthly,5,4,2
+493,Semi,21,female,20.28,2,7.79,8,3 month,4,4,2
+494,Derrelle,26,male,25.76,4,13.73,7,3 month,3,4,2
+495,Dorrene,26,male,28.43,4,9.27,8,monthly,2,3,2
+496,Xiviero,36,female,21.72,4,14.08,8,monthly,5,3,2
+497,Tomo,21,male,23.09,2,17.93,8,monthly,3,4,2
+498,Trevori,23,male,28.15,4,10.19,6,monthly,5,5,2
+499,Micheeli,34,female,20.4,3,19.02,8,monthly,3,3,2
+500,Sofioe,24,female,24.28,4,7.45,7,monthly,5,4,2
+501,Joshi,30,male,23.08,2,9.87,6,monthly,2,5,2
+502,Zoeo,23,female,21.09,4,14.9,6,monthly,4,4,2
+503,Dolee,20,male,26.54,3,8.52,6,monthly,3,2,2
+504,Lonceo,27,male,24.06,2,14.83,8,monthly,5,2,2
+505,Phile,38,male,23.13,3,7.7,7,monthly,4,4,2
+506,Justino,33,male,24.61,2,7.97,7,3 month,5,5,2
+507,Ulyssesi,28,female,26.04,3,12.76,7,3 month,5,2,2
+508,Elliee,21,female,27.5,3,6.25,6,monthly,2,4,2
+509,Delei,20,male,23.89,2,9.31,6,monthly,4,4,2
+510,Willi,32,male,27.99,2,11.54,6,3 month,2,3,2
+511,Metto,26,male,23.54,3,10.0,7,3 month,2,5,2
+512,Olivieo,35,female,20.84,2,19.45,8,monthly,4,4,2
+513,Luneo,30,female,24.08,3,11.05,8,3 month,4,4,2
+514,Petei,34,male,20.48,4,13.5,6,monthly,2,2,2
+515,Airono,36,female,22.94,4,11.59,6,3 month,3,3,2
+516,Merko,21,male,29.08,3,12.1,7,monthly,4,4,2
+517,Jeremyi,27,male,21.38,3,13.3,6,3 month,5,5,2
+518,Kevino,22,female,29.57,3,10.73,6,monthly,2,5,2
+519,Lieme,19,female,21.73,3,11.27,8,monthly,3,5,2
+520,Scotti,21,male,24.58,2,9.29,8,3 month,2,4,2
+521,Philipo,26,male,29.29,3,8.94,6,monthly,4,4,2
+522,Wodee,34,male,21.75,2,9.02,6,3 month,3,3,2
+523,Giennoe,35,female,29.43,4,7.54,6,yearly,5,4,2
+524,Chloee,27,female,25.44,2,10.18,8,monthly,3,4,2
+525,Goryi,35,male,22.57,4,16.87,6,3 month,3,2,2
+526,Amelioe,32,female,28.66,3,12.96,8,3 month,5,5,2
+527,Xiviero,26,female,23.77,2,8.37,7,3 month,3,4,2
+528,Mouricei,34,male,28.64,3,15.23,6,3 month,3,3,2
+529,Gerildo,30,male,29.49,3,10.31,6,3 month,4,5,2
+530,Jeremye,31,male,28.96,4,10.33,8,3 month,3,2,2
+531,Chloeo,24,female,21.28,4,10.18,6,monthly,3,3,2
+532,Michielo,26,female,21.46,2,7.96,6,3 month,5,2,2
+533,Rono,23,male,24.83,2,17.09,6,3 month,3,4,2
+534,Petere,22,male,29.04,4,18.2,8,3 month,2,4,2
+535,Alexi,20,male,20.73,4,6.61,6,monthly,2,3,2
+536,Kevine,32,female,24.73,4,8.4,7,monthly,2,3,2
+537,Roberti,24,female,21.46,2,12.8,7,3 month,2,5,2
+538,Finno,23,female,22.88,2,18.49,8,3 month,3,2,2
+539,Quinne,34,female,21.25,2,11.27,8,yearly,4,2,2
+540,Ryone,23,female,25.56,4,6.18,8,monthly,5,5,2
+541,Tyleri,30,female,27.69,4,6.81,6,3 month,4,4,2
+542,Noreo,23,female,25.46,4,9.13,8,monthly,5,5,2
+543,Zoeyi,34,female,29.07,2,10.93,7,3 month,5,5,2
+544,Trevoro,33,male,22.75,2,11.16,8,monthly,2,2,2
+545,Isibelloi,20,female,29.79,3,7.65,8,3 month,4,2,2
+546,Tylere,25,male,25.66,4,10.21,8,3 month,4,3,2
+547,Piuli,23,male,24.61,3,17.48,7,3 month,4,4,2
+548,Zecherye,35,female,27.86,3,19.31,6,3 month,4,4,2
+549,Andrewi,25,male,28.06,3,16.49,6,3 month,2,2,2
+550,Mikei,33,male,28.11,4,17.09,6,3 month,3,4,2
+551,Netelieo,20,female,22.34,4,15.99,8,monthly,4,2,2
+552,Tome,30,male,23.06,4,6.24,6,monthly,4,4,2
+553,Lucye,34,female,23.76,3,14.0,8,3 month,2,5,2
+554,Pirkero,38,female,20.32,3,19.69,6,monthly,4,5,2
+555,Victoro,18,female,27.94,2,10.29,6,monthly,5,4,2
+556,Dustini,25,male,22.58,3,14.86,7,3 month,4,4,2
+557,Joei,25,male,26.86,4,11.14,7,monthly,3,4,2
+558,Trevori,31,male,24.54,4,9.22,6,3 month,4,2,2
+559,Alexi,28,male,28.77,4,9.7,6,monthly,2,3,2
+560,Dini,25,male,22.29,2,11.47,8,3 month,4,3,2
+561,Shewni,23,male,26.11,4,7.88,7,yearly,2,3,2
+562,Mouricei,29,male,27.02,3,8.46,7,yearly,5,3,2
+563,Jeremye,19,male,29.34,2,7.32,7,yearly,2,4,2
+564,Iseeco,25,female,27.02,2,11.52,6,3 month,2,5,2
+565,Ethini,33,female,21.81,2,16.35,6,monthly,5,4,2
+566,Seono,27,male,29.08,3,9.41,8,yearly,2,4,2
+567,Steveno,35,male,22.65,2,13.42,8,3 month,4,3,2
+568,Richordi,31,male,21.83,2,17.78,8,3 month,2,2,2
+569,Zoeyi,34,female,27.61,3,11.87,7,monthly,4,4,2
+570,Peytoni,31,female,29.57,4,14.85,7,monthly,5,3,2
+571,Justino,17,male,28.22,4,11.48,8,3 month,4,4,2
+572,Keitho,21,male,28.35,3,18.99,8,monthly,4,4,2
+573,Audreyi,20,female,20.37,2,14.11,8,monthly,4,2,2
+574,Richo,30,male,27.55,3,19.29,8,3 month,2,4,2
+575,Porkeri,22,female,27.64,4,18.48,8,yearly,2,4,2
+576,Edwordo,21,male,26.75,3,18.85,8,monthly,4,5,2
+577,Rone,31,male,28.76,2,16.8,7,3 month,3,5,2
+578,Mikee,32,male,20.06,2,6.1,7,3 month,4,2,2
+579,Andrewe,31,male,27.58,3,13.53,8,monthly,2,5,2
+580,Cloytono,23,male,23.19,4,17.09,6,3 month,5,3,2
+581,Josepho,32,male,29.2,3,7.37,6,3 month,2,4,2
+582,Stevee,25,male,28.22,3,18.51,8,monthly,5,2,2
+583,Grente,21,male,23.83,3,18.35,8,monthly,3,4,2
+584,Willo,28,male,24.44,2,6.35,6,3 month,2,3,2
+585,Dolee,20,male,20.45,4,19.8,8,3 month,3,4,2
+586,Jeremye,20,male,26.91,2,8.07,7,monthly,4,3,2
+587,Edwordo,33,female,29.06,4,7.37,7,3 month,4,3,2
+588,Bellio,22,female,21.93,4,11.7,6,3 month,3,3,2
+589,Brente,23,male,29.22,2,10.68,6,3 month,2,2,2
+590,Edwirdi,33,female,25.45,3,17.4,6,monthly,3,2,2
+591,Averye,29,female,21.85,2,14.98,6,monthly,5,2,2
+592,Frenko,19,male,29.69,3,9.76,7,3 month,4,5,2
+593,Devide,32,male,23.53,3,11.31,8,monthly,2,3,2
+594,Ariee,26,female,20.12,2,12.27,8,yearly,5,2,2
+595,Ricko,25,male,27.26,2,6.01,7,monthly,3,3,2
+596,Phili,30,male,29.7,4,19.3,6,3 month,3,2,2
+597,Alino,39,male,25.35,2,12.97,6,yearly,2,2,2
+598,Tome,32,male,24.85,2,7.57,7,yearly,2,4,2
+599,Tyleri,26,male,29.11,4,10.74,7,3 month,2,2,2
+600,Brendoni,31,female,22.09,4,6.51,8,monthly,5,4,2
+601,Andrewe,30,male,27.4,2,16.08,7,3 month,2,5,2
+602,Jonothene,25,male,24.62,2,11.54,8,yearly,2,2,2
+603,Lilliine,29,female,23.24,3,9.28,6,3 month,2,2,2
+604,Wyetto,32,female,29.51,4,14.82,6,monthly,5,5,2
+605,Tyleri,29,male,22.46,4,13.91,7,yearly,2,3,2
+606,Justine,21,male,23.48,3,19.42,7,3 month,4,2,2
+607,Nigelo,29,male,21.49,3,12.21,7,yearly,4,4,2
+608,Lincei,32,male,21.99,2,15.41,8,yearly,4,2,2
+609,Georgee,28,male,20.66,2,10.03,8,monthly,3,5,2
+610,Aoroni,27,female,28.22,2,19.77,6,monthly,5,3,2
+611,Victore,24,female,24.39,2,19.15,7,yearly,4,3,2
+612,Aerono,26,female,21.74,3,10.25,6,yearly,5,2,2
+613,Roberto,27,male,28.5,3,16.33,8,3 month,4,3,2
+614,Lerryo,30,male,21.14,3,17.62,8,3 month,2,3,2
+615,Dirrello,34,male,22.65,2,6.22,6,monthly,5,3,2
+616,Chloei,27,female,27.04,2,15.14,7,3 month,3,3,2
+617,Billi,23,male,28.69,3,8.07,7,monthly,5,3,2
+618,Joeli,32,male,25.23,3,6.36,7,monthly,5,5,2
+619,Aurorie,26,female,20.51,2,6.88,8,3 month,5,4,2
+620,Victorioo,26,female,29.82,4,14.97,8,monthly,3,3,2
+621,Jocko,22,female,27.02,3,9.53,6,monthly,2,5,2
+622,Jisone,38,male,22.52,4,18.28,8,monthly,3,5,2
+623,Chloei,21,female,24.93,3,12.74,7,3 month,4,4,2
+624,Oliviio,18,female,25.73,3,9.94,6,3 month,5,3,2
+625,Emmeo,37,female,21.13,3,15.92,6,monthly,4,4,2
+626,Jordene,29,female,22.58,3,7.17,7,3 month,4,4,2
+627,Mikei,33,male,20.4,3,18.08,8,3 month,5,2,2
+628,Cersono,31,female,23.38,4,13.62,6,monthly,3,2,2
+629,Allisone,24,female,20.32,2,9.63,6,3 month,4,5,2
+630,Gerildo,28,male,25.86,4,10.63,8,yearly,5,5,2
+631,Brendoni,32,female,24.91,4,19.06,7,monthly,5,5,2
+632,Xeviere,35,female,24.22,3,11.17,6,3 month,4,3,2
+633,Averye,22,female,28.86,4,10.13,8,monthly,3,2,2
+634,Williomo,23,male,20.79,2,16.67,8,3 month,3,4,2
+635,Micheelo,21,female,28.91,3,15.12,8,3 month,2,4,2
+636,Lerryo,30,male,21.38,4,19.1,6,monthly,2,5,2
+637,Johne,32,male,20.24,4,15.06,8,monthly,2,4,2
+638,Kylee,24,male,22.28,4,6.92,6,monthly,5,2,2
+639,Airono,21,male,21.74,4,7.99,7,monthly,5,5,2
+640,Sevennohi,36,female,23.43,2,18.95,7,3 month,2,3,2
+641,Tylere,31,male,27.46,2,12.05,6,monthly,3,5,2
+642,Lincei,32,male,23.39,2,17.66,8,3 month,3,3,2
+643,Williomi,35,male,27.82,2,11.33,8,monthly,5,2,2
+644,Lonceo,27,male,26.64,4,18.03,8,monthly,4,5,2
+645,Merki,28,male,20.69,4,13.56,8,3 month,4,4,2
+646,Cloytoni,29,male,22.92,2,10.41,7,monthly,3,2,2
+647,Tyleri,30,male,20.11,4,10.43,6,monthly,2,5,2
+648,Adome,37,female,21.89,3,13.24,8,3 month,4,4,2
+649,Thomise,27,female,25.71,4,19.55,8,3 month,3,5,2
+650,Isieci,34,female,25.54,3,6.4,8,3 month,2,5,2
+651,Scotto,37,male,21.96,2,12.7,6,3 month,4,5,2
+652,Herrisone,34,female,29.65,3,11.13,7,3 month,4,3,2
+653,Chirlesi,30,male,29.45,2,14.44,8,3 month,3,2,2
+654,Oliviei,24,female,27.82,3,17.79,8,monthly,2,3,2
+655,Emilye,33,female,26.92,3,13.79,7,3 month,4,5,2
+656,Jordone,24,male,24.34,3,19.17,8,3 month,5,4,2
+657,Chirlese,18,male,22.83,3,16.12,7,monthly,3,4,2
+658,Petee,28,male,27.34,4,19.81,6,3 month,5,2,2
+659,Stellii,28,female,25.94,3,18.54,7,3 month,4,4,2
+660,Skylere,22,female,20.93,2,7.97,8,monthly,5,5,2
+661,Jimi,31,male,24.13,4,13.4,8,monthly,2,2,2
+662,Vincenti,33,female,28.09,4,14.87,6,monthly,5,3,2
+663,Josminei,32,female,24.15,3,17.75,7,monthly,2,4,2
+664,Henrye,34,male,21.34,4,19.09,7,monthly,3,5,2
+665,Seeni,24,male,21.2,3,19.4,8,monthly,3,3,2
+666,Grohemo,31,female,20.64,2,12.21,8,monthly,2,3,2
+667,Cemilii,34,female,26.72,2,13.77,8,yearly,3,2,2
+668,Dustino,31,male,22.81,3,7.92,6,3 month,2,5,2
+669,Dustini,28,male,26.12,2,10.36,7,3 month,4,2,2
+670,Stevee,21,male,27.91,4,11.61,6,yearly,2,5,2
+671,Weyneo,22,male,23.9,3,18.62,6,3 month,2,5,2
+672,Johno,39,male,28.58,4,16.3,7,3 month,3,2,2
+673,Cerli,30,male,23.94,4,18.95,7,monthly,2,5,2
+674,Andrewo,30,male,21.5,4,15.17,6,3 month,5,5,2
+675,Arionnoe,24,female,22.38,2,6.54,7,3 month,2,5,2
+676,Sidieo,34,female,23.23,2,6.11,8,monthly,4,3,2
+677,Dennisi,27,male,29.6,2,17.91,6,monthly,5,3,2
+678,Hinke,28,male,22.22,4,10.42,8,monthly,3,2,2
+679,Jeremyo,33,male,24.23,3,18.17,7,3 month,3,2,2
+680,Curtise,23,male,25.24,2,8.05,6,yearly,2,5,2
+681,Sethe,32,male,21.12,4,8.14,8,monthly,2,4,2
+682,Nicki,31,female,21.57,2,18.06,6,monthly,3,4,2
+683,Jicobo,29,male,23.16,4,15.35,8,yearly,2,4,2
+684,Ariinio,36,female,24.23,3,15.19,6,monthly,4,2,2
+685,Seine,22,male,29.05,2,19.02,6,yearly,4,4,2
+686,Vincenti,28,male,23.43,4,9.04,8,monthly,4,2,2
+687,Frenko,28,female,29.86,4,7.69,6,3 month,4,2,2
+688,Alono,20,male,29.33,4,13.04,6,monthly,5,3,2
+689,Isoece,32,female,28.77,2,19.72,6,3 month,5,5,2
+690,Petero,22,male,20.61,4,9.27,7,3 month,2,2,2
+691,Tylero,34,male,21.99,2,11.21,6,3 month,3,2,2
+692,Cerle,26,male,27.63,3,13.37,7,monthly,2,2,2
+693,Chodi,26,male,25.75,4,7.47,6,monthly,5,5,2
+694,Peulo,34,male,21.56,3,7.35,6,monthly,4,5,2
+695,Jimeso,19,male,22.41,3,18.06,7,3 month,4,2,2
+696,Josone,28,male,24.99,2,16.37,7,3 month,3,5,2
+697,Roberte,30,male,26.52,4,6.98,7,3 month,3,4,2
+698,Devido,35,male,9.82,8,16.71,11,yearly,15,17,3
+699,Willo,28,male,14.1,4,12.15,10,monthly,10,17,3
+700,Oliveri,29,female,11.33,8,10.31,8,3 month,10,12,3
+701,Kevine,48,female,19.98,6,13.02,12,3 month,15,9,3
+702,Jordyno,30,female,15.38,8,11.01,13,3 month,13,13,3
+703,Stevene,45,male,17.95,4,15.26,14,3 month,21,23,3
+704,Tyleri,42,male,15.13,8,13.6,14,3 month,14,18,3
+705,Alexi,47,male,18.15,6,19.35,13,yearly,19,24,3
+706,Edwirdo,37,female,12.6,5,11.16,12,3 month,21,21,3
+707,Lonceo,32,male,9.56,6,12.8,8,yearly,23,10,3
+708,Sethe,48,male,17.38,6,17.73,13,yearly,20,9,3
+709,Nicko,39,male,12.51,8,12.52,14,yearly,7,22,3
+710,Lilyi,33,female,13.28,7,13.55,14,yearly,21,16,3
+711,Philipi,36,male,15.6,7,17.55,8,yearly,15,24,3
+712,Netoliei,43,female,9.8,5,11.11,12,yearly,10,10,3
+713,Leyloo,43,female,14.15,6,15.01,11,3 month,12,14,3
+714,Zichi,24,male,10.45,6,18.31,7,yearly,8,24,3
+715,Leonirdi,37,male,18.44,6,19.27,9,3 month,12,20,3
+716,Curtisi,31,male,19.43,8,11.56,11,yearly,22,17,3
+717,Phili,30,male,13.67,4,10.2,13,yearly,10,19,3
+718,Josephi,35,male,19.26,5,11.43,7,yearly,11,23,3
+719,Nicko,37,female,12.95,5,13.32,9,yearly,7,10,3
+720,Josee,34,male,6.52,8,17.57,8,3 month,9,23,3
+721,Metthewe,27,male,5.85,6,16.68,11,yearly,13,15,3
+722,Grege,47,male,9.76,7,13.96,11,monthly,9,17,3
+723,Mokeyloi,45,female,15.92,5,19.76,13,yearly,18,24,3
+724,Lorryo,42,male,19.88,6,15.71,14,yearly,18,16,3
+725,Keithi,45,male,16.57,8,10.66,10,yearly,8,19,3
+726,Jicobi,39,male,6.08,6,15.17,8,yearly,13,21,3
+727,Jisone,42,male,18.08,8,11.48,10,yearly,16,21,3
+728,Divide,27,male,8.94,6,15.58,11,yearly,15,22,3
+729,Eveno,43,male,18.38,5,14.1,12,yearly,13,23,3
+730,Addisone,38,female,15.19,4,13.37,7,yearly,14,16,3
+731,Quinni,33,female,15.94,5,13.79,13,3 month,13,16,3
+732,Zechi,46,male,11.37,6,15.23,12,yearly,7,22,3
+733,Jonithino,45,male,11.3,6,12.6,11,yearly,21,12,3
+734,Josepho,27,male,7.34,6,18.29,8,yearly,14,23,3
+735,Nicke,37,male,14.01,5,14.39,12,monthly,23,13,3
+736,Brente,31,male,7.76,8,11.25,10,yearly,18,15,3
+737,Girye,46,female,12.22,7,15.77,9,yearly,14,8,3
+738,Airone,44,female,5.8,4,11.41,9,3 month,12,8,3
+739,Henryi,27,female,15.91,5,14.08,11,yearly,18,16,3
+740,Divei,33,female,16.22,6,14.31,14,3 month,13,8,3
+741,Rono,27,male,11.79,7,12.49,7,3 month,8,23,3
+742,Justini,41,male,18.84,6,11.23,7,yearly,15,10,3
+743,Justine,30,male,15.94,5,10.53,11,3 month,11,20,3
+744,Mioe,26,female,10.26,4,18.41,7,yearly,9,23,3
+745,Poule,44,male,5.42,8,15.32,11,3 month,20,24,3
+746,Mixe,27,female,7.31,7,19.5,10,monthly,17,24,3
+747,Mikee,29,male,16.76,6,17.88,8,yearly,7,21,3
+748,Henryo,38,male,17.09,4,12.12,11,yearly,11,13,3
+749,Tyleri,44,male,16.01,8,17.65,10,yearly,20,18,3
+750,Giinnoo,38,female,8.71,4,11.32,12,3 month,17,16,3
+751,Jiye,38,male,11.36,7,12.35,9,3 month,8,24,3
+752,Jeffi,34,male,10.67,4,10.12,12,monthly,7,14,3
+753,Williemo,35,male,10.04,5,19.93,12,yearly,24,12,3
+754,Phili,44,male,6.1,5,10.95,13,yearly,12,10,3
+755,Isoici,29,female,7.79,4,11.45,12,yearly,14,8,3
+756,Justino,39,male,18.9,5,19.13,7,3 month,10,10,3
+757,Victori,35,female,10.64,8,18.33,11,3 month,17,24,3
+758,Leee,35,male,15.9,7,13.1,13,yearly,17,23,3
+759,Justine,48,male,9.81,6,13.1,10,yearly,20,12,3
+760,Victori,32,female,14.67,5,14.46,14,3 month,12,22,3
+761,Corsoni,36,female,17.72,8,17.13,14,yearly,22,7,3
+762,Sidiee,33,female,8.41,7,17.23,10,monthly,9,12,3
+763,Jeremyi,41,male,15.43,4,16.43,9,yearly,11,24,3
+764,Dylono,28,female,18.98,5,14.31,12,yearly,20,18,3
+765,Seoni,46,male,13.9,7,19.21,12,monthly,22,17,3
+766,Sethi,32,male,9.0,6,19.22,10,yearly,18,7,3
+767,Mesoni,38,male,5.22,8,17.21,14,yearly,15,17,3
+768,Abigeile,29,female,17.81,4,15.33,13,yearly,15,14,3
+769,Woynee,39,male,19.28,6,18.76,14,3 month,16,24,3
+770,Jeremyi,31,male,6.67,7,10.72,14,yearly,18,9,3
+771,Jordyno,46,female,16.41,5,13.49,14,yearly,20,18,3
+772,Henrye,42,female,15.42,5,13.36,12,monthly,12,17,3
+773,Brione,47,male,9.68,7,10.2,10,3 month,9,7,3
+774,Oliveri,49,female,16.17,5,10.21,14,yearly,10,10,3
+775,Josee,36,male,5.94,8,12.82,10,3 month,11,20,3
+776,Airone,44,male,17.52,5,13.02,14,monthly,20,24,3
+777,Annobelleo,27,female,13.46,6,11.0,11,yearly,21,11,3
+778,Brooklynno,42,female,19.44,5,15.85,13,3 month,15,16,3
+779,Johno,46,male,11.73,8,15.44,12,3 month,11,9,3
+780,Leonerde,29,male,10.41,6,18.02,14,yearly,16,20,3
+781,Xeviere,30,female,18.46,5,18.88,12,3 month,12,9,3
+782,Kylee,36,male,6.19,8,13.14,12,yearly,18,11,3
+783,Doleo,34,male,8.12,8,11.65,14,yearly,11,12,3
+784,Zichi,33,male,7.5,8,11.49,13,monthly,9,16,3
+785,Jordeni,46,male,13.11,8,12.49,9,yearly,22,8,3
+786,Mollyo,41,female,7.66,8,13.21,14,3 month,14,19,3
+787,Georgeo,32,male,13.64,4,12.14,8,monthly,9,15,3
+788,Setho,41,male,12.57,6,18.41,11,monthly,17,10,3
+789,Kylei,36,female,10.42,4,13.53,14,yearly,8,16,3
+790,Nitee,42,male,8.98,6,14.89,9,yearly,19,12,3
+791,Isobellei,33,female,6.84,4,14.65,7,3 month,12,14,3
+792,Jordoni,42,female,11.72,6,10.41,10,yearly,7,7,3
+793,Ariinei,37,female,15.94,6,15.58,8,yearly,10,7,3
+794,Mirko,47,male,19.35,6,13.38,12,3 month,17,8,3
+795,Micheele,27,male,15.36,6,12.41,7,monthly,17,10,3
+796,Mikee,42,male,11.67,8,10.27,10,yearly,13,18,3
+797,Simonthio,47,female,8.67,8,15.92,7,3 month,15,14,3
+798,Georgei,24,female,16.66,7,18.52,13,yearly,8,16,3
+799,Beni,41,male,12.46,5,19.58,12,yearly,16,24,3
+800,Jemesi,34,female,15.32,5,15.29,8,yearly,11,15,3
+801,Alessondree,32,female,16.85,7,11.49,12,3 month,8,16,3
+802,Tylero,24,female,7.2,8,11.61,12,3 month,11,8,3
+803,Liloo,28,female,6.56,5,16.41,13,3 month,19,22,3
+804,Roberti,32,male,10.52,6,16.67,14,yearly,15,17,3
+805,Johne,40,male,15.14,6,19.98,11,yearly,21,18,3
+806,Brondono,44,female,5.71,5,14.09,7,yearly,20,19,3
+807,Jocke,31,male,11.89,4,14.67,11,3 month,13,24,3
+808,Ryine,33,female,18.53,7,19.02,8,3 month,10,21,3
+809,Emmoo,36,female,5.8,7,10.94,10,3 month,18,8,3
+810,Mixi,27,female,5.61,8,14.34,13,monthly,17,24,3
+811,Jeremyo,47,male,17.31,4,11.69,7,yearly,20,11,3
+812,Zoei,49,female,13.45,8,18.77,13,yearly,19,9,3
+813,Michiele,28,male,9.76,7,19.61,7,yearly,21,13,3
+814,Joshe,48,male,13.72,8,19.93,12,3 month,13,18,3
+815,Williome,25,male,18.11,4,12.97,10,3 month,22,21,3
+816,Mirki,29,male,7.08,8,13.04,8,yearly,22,14,3
+817,Hozeli,39,female,13.11,7,16.77,7,yearly,19,22,3
+818,Jeremyi,26,male,8.97,6,16.93,7,3 month,9,22,3
+819,Jeremyi,32,male,11.53,6,14.55,13,3 month,10,8,3
+820,Rileyo,29,female,8.59,6,11.14,8,monthly,11,23,3
+821,Zeche,31,male,12.86,6,17.95,12,yearly,9,22,3
+822,Isiece,43,female,11.42,4,10.65,7,yearly,16,17,3
+823,Drewi,26,male,10.1,7,17.86,11,yearly,18,22,3
+824,Dustine,30,male,9.99,7,17.29,7,yearly,22,22,3
+825,Grinte,48,male,15.97,7,17.75,13,3 month,18,22,3
+826,Jemese,47,male,15.45,6,12.17,11,yearly,23,24,3
+827,Merko,29,male,19.6,6,13.19,10,yearly,16,15,3
+828,Jimo,43,male,9.17,7,13.9,11,3 month,11,20,3
+829,Victori,31,female,10.76,6,14.66,7,yearly,18,24,3
+830,Joeo,30,male,15.71,4,16.52,7,yearly,13,19,3
+831,Wyitte,47,female,12.37,7,18.91,11,yearly,8,20,3
+832,Ainsleyi,37,female,11.15,4,12.05,14,3 month,18,18,3
+833,Lerryi,30,male,6.56,4,12.9,11,yearly,23,12,3
+834,Wedei,46,male,9.48,7,10.75,8,3 month,12,8,3
+835,Elleo,28,female,16.69,8,18.36,14,yearly,17,7,3
+836,Grecei,30,female,15.75,7,13.02,7,yearly,10,21,3
+837,Fronke,44,male,5.72,4,10.36,14,yearly,20,24,3
+838,Nigelo,44,male,18.84,5,14.78,7,3 month,24,17,3
+839,Justini,33,male,9.61,6,17.54,10,yearly,22,19,3
+840,Brente,30,male,8.4,7,10.39,8,3 month,8,12,3
+841,Keithi,44,male,7.54,5,13.68,10,3 month,8,22,3
+842,Lencei,36,male,10.45,4,17.04,14,yearly,18,9,3
+843,Williimo,40,female,5.11,7,14.12,7,yearly,19,17,3
+844,Dustini,29,male,12.17,7,12.98,13,3 month,23,11,3
+845,Alberto,32,male,12.09,4,15.48,8,yearly,19,10,3
+846,Jecobi,45,male,8.84,4,11.23,12,3 month,24,21,3
+847,Jordyne,30,female,18.99,4,18.52,10,yearly,18,24,3
+848,Mitthewi,47,male,8.18,7,19.69,10,3 month,14,10,3
+849,Wille,44,male,5.76,8,13.57,9,yearly,15,17,3
+850,Mikeo,35,male,18.44,4,12.01,10,yearly,18,20,3
+851,Erico,49,male,18.86,8,15.49,12,3 month,14,13,3
+852,Wideo,40,male,19.19,4,18.12,13,yearly,11,19,3
+853,Xiviero,43,female,10.01,5,16.44,13,yearly,8,8,3
+854,Victori,26,male,7.48,6,17.79,14,3 month,24,8,3
+855,Jeffe,44,male,6.68,7,18.46,8,yearly,10,7,3
+856,Joseo,32,male,10.66,4,18.98,7,yearly,24,20,3
+857,Joeo,41,male,8.72,6,14.31,14,yearly,18,11,3
+858,Stevei,26,male,9.17,7,12.46,12,yearly,15,20,3
+859,Steveo,42,male,10.48,7,11.13,9,yearly,10,21,3
+860,Mikeo,50,male,8.16,5,13.12,13,monthly,18,10,3
+861,Ariio,47,female,15.97,7,16.32,12,yearly,17,13,3
+862,Divido,45,female,14.39,4,14.2,7,yearly,13,16,3
+863,Lorenzoi,37,male,6.75,5,16.14,8,monthly,21,13,3
+864,Peytone,40,female,6.92,7,19.52,10,yearly,16,12,3
+865,Jeremye,30,male,8.46,8,10.06,14,yearly,23,19,3
+866,Jordono,34,male,19.01,7,10.13,8,yearly,22,21,3
+867,Dustini,38,male,13.88,8,18.64,14,yearly,13,11,3
+868,Philipi,40,male,13.86,8,15.42,11,yearly,20,16,3
+869,Serenoe,45,female,9.44,8,18.53,8,3 month,20,16,3
+870,Richordo,26,male,6.29,4,18.3,10,3 month,20,11,3
+871,Honko,34,male,13.82,5,15.91,13,3 month,20,15,3
+872,Loncei,37,male,15.29,5,14.47,8,yearly,15,15,3
+873,Keyleee,46,female,10.36,6,14.02,13,3 month,14,7,3
+874,Jime,27,male,13.45,4,14.64,7,yearly,20,24,3
+875,Roberte,49,male,15.41,7,10.24,9,monthly,14,9,3
+876,Michieli,27,male,18.71,6,11.36,7,yearly,22,19,3
+877,Doleo,32,male,12.25,8,19.08,13,yearly,16,14,3
+878,Nigelo,32,male,9.68,8,15.39,10,yearly,17,7,3
+879,Skyliro,39,female,10.28,6,11.24,8,yearly,15,12,3
+880,Alone,49,male,17.19,6,17.77,10,3 month,20,10,3
+881,Drewo,32,male,15.96,4,14.88,7,3 month,20,21,3
+882,Sevinnehi,29,female,16.76,5,18.69,10,yearly,12,19,3
+883,Brooklyne,28,female,14.11,8,18.58,10,3 month,14,8,3
+884,Joele,38,male,17.84,6,16.23,12,yearly,9,13,3
+885,Dennise,44,male,7.55,6,15.65,8,3 month,9,17,3
+886,Jonetheno,46,male,9.82,7,14.98,12,yearly,16,14,3
+887,Frinke,34,female,18.05,5,10.16,11,yearly,20,14,3
+888,Lorenzoi,29,male,8.85,5,16.42,12,yearly,14,14,3
+889,Rono,33,male,17.23,7,14.52,11,monthly,16,7,3
+890,Lorrye,27,male,6.51,4,12.25,9,yearly,17,18,3
+891,Kylei,43,male,12.28,8,16.31,14,3 month,15,17,3
+892,Alexo,42,male,11.49,5,11.28,8,3 month,21,14,3
+893,Lucyi,36,female,17.45,7,14.66,8,monthly,18,14,3
+894,Dovido,49,male,12.95,5,15.87,8,3 month,10,15,3
+895,Motto,26,male,14.83,5,15.49,8,monthly,18,19,3
+896,Josho,36,male,18.28,7,14.79,12,3 month,17,18,3
+897,Rileye,39,female,7.73,4,11.64,9,yearly,19,18,3
+898,Joele,43,male,7.41,8,13.03,9,yearly,8,21,3
+899,Tylere,49,male,6.27,4,17.36,8,3 month,19,18,3
+900,Gevino,37,male,12.31,6,19.27,7,monthly,24,20,3
+901,Goryo,45,male,15.7,5,16.67,11,yearly,11,7,3
+902,Nicke,37,female,9.96,4,12.49,9,yearly,14,14,3
+903,Herrisone,27,female,16.41,4,13.97,12,yearly,8,16,3
+904,Riyi,37,male,13.85,6,16.06,7,monthly,23,14,3
+905,Sethe,45,male,8.34,6,17.98,9,yearly,8,18,3
+906,Jordoni,43,male,9.85,5,12.27,9,3 month,19,11,3
+907,Peytoni,28,female,9.65,7,13.23,12,3 month,12,13,3
+908,Bene,30,male,11.84,6,10.38,7,yearly,13,14,3
+909,Iseece,50,female,12.64,5,17.73,12,yearly,21,11,3
+910,Kevine,28,male,8.61,7,11.25,13,3 month,7,7,3
+911,Jocobi,35,male,17.81,7,11.77,11,3 month,12,7,3
+912,Erici,31,male,6.09,8,14.83,11,yearly,24,12,3
+913,Trevore,38,male,18.4,7,17.72,7,yearly,24,8,3
+914,Aerono,35,female,18.57,6,15.8,8,yearly,20,12,3
+915,Brieni,33,male,15.46,6,12.11,13,3 month,15,18,3
+916,Gronte,36,male,6.65,8,10.49,13,3 month,14,23,3
+917,Mosone,39,male,17.46,7,17.27,13,yearly,10,16,3
+918,Scotti,42,male,8.62,4,12.47,10,monthly,14,20,3
+919,Jeffo,24,male,14.79,6,18.47,8,yearly,21,15,3
+920,Simi,42,male,5.36,4,17.17,12,yearly,18,24,3
+921,Lonceo,33,male,19.13,8,16.31,11,3 month,23,9,3
+922,Richi,30,male,6.34,6,17.71,8,yearly,23,17,3
+923,Jicobe,27,male,7.8,8,15.63,14,monthly,17,15,3
+924,Trevori,35,male,9.61,8,11.33,10,yearly,10,19,3
+925,Micheele,34,male,8.75,8,15.14,14,yearly,18,22,3
+926,Gevini,41,male,13.09,7,16.07,8,yearly,13,20,3
+927,Joshe,35,male,9.0,4,10.58,14,yearly,21,21,3
+928,Gionnie,43,female,17.32,5,10.97,9,yearly,10,20,3
+929,Ariinio,27,female,7.85,7,12.17,10,yearly,12,16,3
+930,Zechi,27,male,7.95,4,19.07,14,yearly,13,13,3
+931,Pipere,30,female,15.26,4,19.36,10,yearly,18,12,3
+932,Christieno,30,female,13.74,5,11.58,12,3 month,19,21,3
+933,Lilliini,31,female,15.67,6,17.03,9,3 month,16,21,3
+934,Jecobe,43,male,6.46,5,15.95,7,yearly,8,14,3
+935,Beno,34,male,8.29,4,12.08,10,yearly,12,14,3
+936,Georgee,24,male,8.41,4,15.28,12,monthly,23,9,3
+937,Pipero,28,female,14.96,7,13.15,12,yearly,24,15,3
+938,Drewe,36,male,16.39,4,18.8,12,yearly,16,19,3
+939,Sethi,29,male,8.44,5,14.28,8,monthly,12,22,3
+940,Stevee,37,male,17.62,5,16.05,8,yearly,17,24,3
+941,Wille,34,male,15.82,4,19.59,10,yearly,12,21,3
+942,Nicki,38,male,12.57,4,11.6,13,yearly,18,19,3
+943,Tomi,37,male,9.63,4,17.86,13,yearly,13,20,3
+944,Victore,47,female,12.59,5,11.63,8,3 month,8,18,3
+945,Alberte,47,male,10.53,8,19.01,12,yearly,16,20,3
+946,Bretto,36,male,7.67,5,16.5,8,yearly,24,7,3
+947,Stellio,33,female,11.28,7,12.38,11,yearly,23,12,3
+948,Evine,27,male,9.2,5,14.15,7,yearly,21,22,3
+949,Jordoni,38,male,8.4,7,10.1,9,yearly,21,20,3
+950,Morko,51,male,9.27,5,10.89,14,3 month,11,24,3
+951,Emmeo,38,female,19.52,6,18.87,7,3 month,10,9,3
+952,Arioi,40,female,15.74,8,18.17,13,yearly,18,8,3
+953,Zeche,45,male,8.21,8,17.23,10,yearly,17,16,3
+954,Modisono,36,female,18.2,4,14.89,13,yearly,13,8,3
+955,Alino,37,male,7.38,5,14.96,14,yearly,8,7,3
+956,Loyloe,30,female,10.9,6,16.54,10,3 month,16,22,3
+957,Zocho,31,male,7.27,7,17.49,11,yearly,12,7,3
+958,Hozeli,26,female,10.93,4,19.23,7,yearly,9,7,3
+959,Kylee,37,male,16.45,6,11.15,9,3 month,12,16,3
+960,Tomi,31,male,9.11,8,16.8,14,yearly,24,15,3
+961,Mirke,42,male,10.39,4,18.55,12,yearly,19,15,3
+962,Weyneo,42,male,10.32,8,14.07,8,monthly,20,21,3
+963,Meuriceo,34,male,9.41,6,16.4,10,yearly,14,12,3
+964,Leei,48,male,5.75,5,10.63,7,3 month,23,8,3
+965,Auroreo,43,female,16.45,8,19.4,12,yearly,15,10,3
+966,Richirdo,48,male,19.75,8,10.99,9,yearly,10,14,3
+967,Jecobi,36,male,10.87,5,15.58,8,yearly,17,13,3
+968,Brenti,34,male,15.36,4,19.16,10,monthly,24,11,3
+969,Roberto,37,male,16.17,4,16.88,10,yearly,9,12,3
+970,Devidi,46,female,16.2,6,16.48,9,3 month,9,19,3
+971,Georgei,39,male,10.04,8,15.92,10,yearly,17,9,3
+972,Liyloe,37,female,13.8,7,17.21,11,yearly,9,21,3
+973,Reyi,45,male,6.67,6,15.68,10,yearly,17,12,3
+974,Annibellei,46,female,12.17,5,14.07,7,yearly,22,11,3
+975,Erici,38,male,7.03,7,12.93,13,3 month,19,17,3
+976,Hinki,33,male,8.93,6,15.3,14,yearly,15,24,3
+977,Wedee,41,male,8.74,5,16.58,11,yearly,24,16,3
+978,Givino,39,male,15.08,4,18.27,10,yearly,13,23,3
+979,Notee,33,male,19.83,4,10.86,8,yearly,12,11,3
+980,Derrelli,27,male,10.65,5,18.74,13,yearly,13,16,3
+981,Beni,36,male,14.59,8,17.64,10,3 month,23,15,3
+982,Jecobi,45,male,7.41,5,18.32,9,monthly,15,13,3
+983,Tomi,30,male,12.52,7,16.5,7,yearly,15,7,3
+984,Richerdi,33,male,17.79,6,11.33,13,yearly,18,22,3
+985,Philipe,29,male,14.93,8,11.14,7,yearly,21,13,3
+986,Oliviio,35,female,19.85,5,13.34,11,3 month,9,15,3
+987,Ryeni,37,female,18.95,4,13.92,14,yearly,11,16,3
+988,Tylero,45,male,19.5,8,17.02,10,yearly,15,20,3
+989,Richo,25,male,9.95,5,15.13,7,yearly,24,15,3
+990,Emmoo,35,female,12.95,8,11.64,14,3 month,7,23,3
+991,Belloo,46,female,13.07,6,11.28,8,yearly,16,11,3
+992,Trevore,41,male,19.45,4,18.68,8,yearly,13,7,3
+993,Leihe,34,female,7.23,6,10.11,12,yearly,24,17,3
+994,Andrewe,30,male,9.98,7,14.64,14,yearly,20,7,3
+995,Tylere,40,male,11.8,5,11.93,12,yearly,14,15,3
+996,Kylei,25,female,19.04,5,14.33,10,yearly,15,8,3
+997,Keitho,34,male,13.23,5,13.26,12,yearly,8,7,3
+998,Henko,33,male,12.62,4,12.31,9,yearly,16,9,3
+999,Lorrye,42,male,5.79,8,10.9,11,yearly,8,15,3
